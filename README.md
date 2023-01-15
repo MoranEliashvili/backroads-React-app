@@ -2,6 +2,11 @@
 
 [Working Application - Deployed](https://react-backroads-app.netlify.app/)
 
+⚒ Technology stack ⚒
+- React
+- HTML5
+- CSS3
+
 <img width="923" alt="צילום מסך 2023-01-11 175914" src="https://user-images.githubusercontent.com/87472845/211854943-b756d4a5-2e85-45f4-9488-5ec93f9d194c.png">
 <img width="931" alt="צילום מסך 2023-01-11 175950" src="https://user-images.githubusercontent.com/87472845/211855192-9477200e-98bf-4965-8eeb-874547297210.png">
 <img width="941" alt="צילום מסך 2023-01-11 180013" src="https://user-images.githubusercontent.com/87472845/211855280-596d9db6-1c8c-4a4a-9712-e9594103eb80.png">
