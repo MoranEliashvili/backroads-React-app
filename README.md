@@ -4,6 +4,7 @@
 
 ⚒ Technology stack ⚒
 - React
+- JavaScript
 - HTML5
 - CSS3
 
